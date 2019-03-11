@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526812303 source:c:\facultate anul 1\semestrul ii\poo\polinoame(tema 3)\main.cpp
+	<iostream>
+	"Polinom.h"
+
+1527603416 c:\facultate anul 1\semestrul ii\poo\polinoame(tema 3)\include\polinom.h
+	<iostream>
+	<cmath>
+
